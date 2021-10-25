@@ -6,6 +6,35 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "kenzinho@kenzinho.com",
+      "password": "$2a$10$KJbCnxbrX6lJoNGRurBiF.oqNFvK/XOcnoQ/4sP2OyfRpoCJbtCN6",
+      "id": 2
+    },
+    {
+      "email": "nando@nando.com",
+      "password": "$2a$10$47RALvT0EtN9MLuZxTcckO7QkPeY0vFvQX5YkV1h//IBS6lVW0jGm",
+      "id": 3
+    }
+  ],
+
+  "news": [
+    {
+      "title": "This is my news title",
+      "discription": "Lorem ipsum aisudiuashd",
+      "userId": 3,
+      "id": 1
+    }
+  ],
+
+  "forum": [
+    {
+      "title": "Como faço dual boot no pc?",
+      "caregory": "Informática",
+      "discussion": "Lancei essa pergunta no nosso fórum para ajudar todos aqueles que tem alguma dificuldade para fazer dual boot no pc, quem puder deixar suas dicas nos comentários abaixo, amplamente agradecido.",
+      "userId": 3,
+      "id": 1
     }
   ]
 }
